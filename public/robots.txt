@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blockchaindemo.apexdevs.io/sitemap.xml
