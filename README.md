@@ -35,7 +35,7 @@ This is a simplified visual model: transfers do not enforce balances, ownership,
 
 Light color tokens from https://apexdevs.io/brand, with Montserrat for interface text and JetBrains Mono for hashes and numeric data. Responsive navigation and panels, reduced-motion support, accessible field labels, native modal focus handling, and keyboard-operable controls.
 
-Inspired by Anders Brownworth's blockchain demonstration: https://andersbrownworth.com/blockchain/. The application is an original implementation; reference-site source and assets are not copied.
+Inspired by Anders Brownworth's blockchain demonstration: https://andersbrownworth.com/blockchain/. The application is an original implementation; Anders Brownworth’s source and assets are not copied. ApexDevs branding uses the official light wordmark component (original SVG geometry, colors, and Space Grotesk font) from its brand page. Favicons and the Apple touch icon are the official assets downloaded from apexdevs.io.
 
 ## Deploy
 
